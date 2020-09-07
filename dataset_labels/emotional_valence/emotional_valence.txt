@@ -1,0 +1,4 @@
+activated_pleasant
+deactivated_pleasant
+activated_unpleasant
+deactivated_unpleasant
